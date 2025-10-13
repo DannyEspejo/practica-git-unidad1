@@ -23,3 +23,14 @@
 
 - Email: [Tu email]
 - LinkedIn: [Tu perfil de LinkedIn]
+
+### [Nombre de la Empresa 2]
+**Cargo:** [Tu cargo]  
+**Periodo:** [Fecha inicio - Fecha fin]  
+**Descripción:** Breve descripción de tus responsabilidades y logros.
+
+### [Nombre de la Empresa 3]
+**Cargo:** [Tu cargo]  
+**Periodo:** [Fecha inicio - Fecha fin]  
+**Descripción:** Breve descripción de tus responsabilidades y logros.
+

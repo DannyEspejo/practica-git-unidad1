@@ -13,3 +13,13 @@
 ## Contacto
 - Email: [Tu email]
 - LinkedIn: [Tu perfil de LinkedIn]
+
+## Experiencia Laboral
+
+### [Nombre de la Empresa 1]
+**Cargo:** [Tu cargo]  
+**Periodo:** [Fecha inicio - Fecha fin]  
+**Descripción:** Breve descripción de tus responsabilidades y logros.
+
+- Email: [Tu email]
+- LinkedIn: [Tu perfil de LinkedIn]

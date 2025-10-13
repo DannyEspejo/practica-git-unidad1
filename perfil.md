@@ -13,3 +13,9 @@
 ## Contacto
 - Email: [Tu email]
 - LinkedIn: [Tu perfil de LinkedIn]
+## Formación Académica
+
+### [Nombre de la Universidad/Institución]
+**Título:** [Título obtenido]  
+**Periodo:** [Año inicio - Año fin]  
+**Descripción:** Breve descripción de tus estudios, especializaciones o proyectos destacados.

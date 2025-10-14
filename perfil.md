@@ -1,45 +1,15 @@
 # Mi Perfil Profesional
 
 ## Datos Personales
-- Nombre: [Tu Nombre]
-- Profesi贸n: [Tu Profesi贸n]
-- Ubicaci贸n: [Ciudad, Pa铆s]
+- Nombre: Danny Espejo
+- Profesi贸n: Ingeniero en Sistemas
+- Ubicaci贸n: Santo Domingo Este, Rep煤blica Dominicana
 
 ## Habilidades
-- [Habilidad 1]
-- [Habilidad 2]
-- [Habilidad 3]
+- Ingenioso
+- Colaborador
+- Emp谩tico
 
 ## Contacto
-- Email: [Tu email]
-- LinkedIn: [Tu perfil de LinkedIn]
+- Email: despejo_h@hotmail.com
 
-## Experiencia Laboral
-
-### [Nombre de la Empresa 1]
-**Cargo:** [Tu cargo]  
-**Periodo:** [Fecha inicio - Fecha fin]  
-**Descripci髇:** Breve descripci髇 de tus responsabilidades y logros.
-
-- Email: [Tu email]
-- LinkedIn: [Tu perfil de LinkedIn]
-
-### [Nombre de la Empresa 2]
-**Cargo:** [Tu cargo]  
-**Periodo:** [Fecha inicio - Fecha fin]  
-**Descripci髇:** Breve descripci髇 de tus responsabilidades y logros.
-
-### [Nombre de la Empresa 3]
-**Cargo:** [Tu cargo]  
-**Periodo:** [Fecha inicio - Fecha fin]  
-**Descripci髇:** Breve descripci髇 de tus responsabilidades y logros.
-\r\n## Formaci髇 Acad閙ica
-
-### [Nombre de la Universidad/Instituci髇]
-**T韙ulo:** [T韙ulo obtenido]  
-**Periodo:** [A駉 inicio - A駉 fin]  
-**Descripci髇:** Breve descripci髇 de tus estudios, especializaciones o proyectos destacados.
-### [Cursos y Certificaciones]
-- [Certificaci髇 1] - [Instituci髇] ([A駉])
-- [Certificaci髇 2] - [Instituci髇] ([A駉])
-- [Certificaci髇 3] - [Instituci髇] ([A駉])\r\n
